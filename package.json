@@ -1,6 +1,6 @@
 {
   "name": "msruna",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "traductor a idioma generado msruna",
   "main": "dist/src/msruna.js",
   "scripts": {
