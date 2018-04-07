@@ -18,7 +18,7 @@ npm install msruna
 ## Uso
 
 ```
-import msruna from 'msruna'
+import platzom from 'msruna'
 
 platzom("programar") // program
 platzom("Zorro") // zorrope
@@ -31,5 +31,5 @@ reverse("manuel")
 ## Autor
 -[Manuel Silva](https://twitter.com/manuelsilvag1)
 
-##Licencia
+## Licencia
 [MIT](https://opensource.org/licenses/MIT)
