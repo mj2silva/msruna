@@ -29,7 +29,7 @@ reverse("manuel")
 ```
 
 ## Autor
--[Manuel Silva](https://twitter.com/manuelsilvag1)
+- [Manuel Silva](https://twitter.com/manuelsilvag1)
 
 ## Licencia
 [MIT](https://opensource.org/licenses/MIT)
